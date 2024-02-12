@@ -1,8 +1,9 @@
 <h2 align="center"> Hi, I'm Tugba👋</h2>
 <h3 align="left">An engineer who is into data science, cloud computing and biotechnology</h3>
-- 🔭 I’m currently a **data analyst**
-- 🌱 I’m currently learning **cloud engineering**
-- ⚡ Fun fact: **I'm 50% fashion, 40% skills and 30% crazy**
+
+- 🔭 I’m currently a data analyst
+- 🌱 I’m currently learning cloud engineering
+- ⚡ Fun fact: I'm 50% fashion, 40% skills and 30% crazy
 
 <h3 align="left">Connect with me::</h3>
 <p align="left">
